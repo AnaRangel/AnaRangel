@@ -1,0 +1,190 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anarangeldiseñografico.com" resolutions="1x" timestamp="1511767155335">
+  <folder name="css">
+    <file name="site_global.css" crc="173770224"/>
+    <file name="master_a-p_g_-maestra.css" crc="4076627724" ref="ana-rangel-portafolio:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-quienes-confiaron:index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="91792568" ref="ana-rangel-portafolio:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-quienes-confiaron:index"/>
+    <file name="ana-rangel-portafolio.css" crc="307073966" ref="ana-rangel-portafolio"/>
+    <file name="nomq_ana-rangel-portafolio.css" crc="3799834334" ref="ana-rangel-portafolio"/>
+    <file name="iefonts_ana-rangel-portafolio.css" crc="3917405749" ref="ana-rangel-portafolio"/>
+    <file name="ana-rangel-sobre-mi.css" crc="4131656193" ref="ana-rangel-sobre-mi"/>
+    <file name="nomq_ana-rangel-sobre-mi.css" crc="368623859" ref="ana-rangel-sobre-mi"/>
+    <file name="iefonts_ana-rangel-sobre-mi.css" crc="3917405749" ref="ana-rangel-sobre-mi"/>
+    <file name="ana-rangel-servicios.css" crc="514517306" ref="ana-rangel-servicios"/>
+    <file name="nomq_ana-rangel-servicios.css" crc="3769904160" ref="ana-rangel-servicios"/>
+    <file name="iefonts_ana-rangel-servicios.css" crc="3917405749" ref="ana-rangel-servicios"/>
+    <file name="ana-rangel-quienes-confiaron.css" crc="4053232383" ref="ana-rangel-quienes-confiaron"/>
+    <file name="nomq_ana-rangel-quienes-confiaron.css" crc="4272016842" ref="ana-rangel-quienes-confiaron"/>
+    <file name="iefonts_ana-rangel-quienes-confiaron.css" crc="3917405749" ref="ana-rangel-quienes-confiaron"/>
+    <file name="index.css" crc="126932512" ref="index"/>
+    <file name="nomq_index.css" crc="43782591" ref="index"/>
+    <file name="iefonts_index.css" crc="3917405749" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="1.png" crc="143988153" seo="true" mt="1511314827000"/>
+    <file name="4.jpg" crc="4211966886" seo="true" mt="1511316451000"/>
+    <file name="5.jpg" crc="4045673438" seo="true" mt="1511316684000"/>
+    <file name="6.jpg" crc="4238328982" seo="true" mt="1511316841000"/>
+    <file name="7.jpg" crc="4188329585" seo="true" mt="1511317038000"/>
+    <file name="8.jpg" crc="403210886" seo="true" mt="1497568452000"/>
+    <file name="9.jpg" crc="4039865078" seo="true" mt="1511318345000"/>
+    <file name="12.jpg" crc="3835967071" seo="true" mt="1511319010000"/>
+    <file name="11.jpg" crc="242749745" seo="true" mt="1505173565000"/>
+    <file name="10.jpg" crc="377543140" seo="true" mt="1511318590000"/>
+    <file name="2.png" crc="514031192" seo="true" mt="1511315403000"/>
+    <file name="3.jpg" crc="3975848374" seo="true" mt="1511315760000"/>
+    <file name="13.jpg" crc="3957504479" seo="true" mt="1511729560000"/>
+    <file name="14.jpg" crc="88139370" seo="true" mt="1511318475000"/>
+    <file name="15.jpg" crc="3970795107" seo="true" mt="1495467212000"/>
+    <file name="16.jpg" crc="293578567" seo="true" mt="1493740722000"/>
+    <file name="mockup_horizontala5_brochure_2.jpg" crc="3830375786" seo="true" mt="1511250183000"/>
+    <file name="19.jpg" crc="3922642803" seo="true" mt="1511144927000"/>
+    <file name="18.jpg" crc="3904517762" seo="true" mt="1511251053000"/>
+    <file name="21.jpg" crc="3893974154" seo="true" mt="1511466219000"/>
+    <file name="22.jpg" crc="4174330961" seo="true" mt="1510320624000"/>
+    <file name="20.jpg" crc="3885176650" seo="true" mt="1480324553000"/>
+    <file name="24.jpg" crc="4114510129" seo="true" mt="1495063422000"/>
+    <file name="25.jpg" crc="50276104" seo="true" mt="1462671739000"/>
+    <file name="26.jpg" crc="155153807" seo="true" mt="1497568429000"/>
+    <file name="36.jpg" crc="296701772" seo="true" mt="1480324831000"/>
+    <file name="27.jpg" crc="264631310" seo="true" mt="1503691004000"/>
+    <file name="23.jpg" crc="472624835" seo="true" mt="1511730990000"/>
+    <file name="28.jpg" crc="4030314048" seo="true" mt="1481371497000"/>
+    <file name="31.jpg" crc="264954515" seo="true" mt="1491527989000"/>
+    <file name="30.jpg" crc="146974255" seo="true" mt="1503527349000"/>
+    <file name="32.jpg" crc="413760640" seo="true" mt="1484254422000"/>
+    <file name="33.jpg" crc="3773583361" seo="true" mt="1502484430000"/>
+    <file name="29.jpg" crc="202150026" seo="true" mt="1480324438000"/>
+    <file name="34.png" crc="154182479" seo="true" mt="1499099336000"/>
+    <file name="35.jpg" crc="4040679488" seo="true" mt="1497987163000"/>
+    <file name="37.jpg" crc="4140579950" seo="true" mt="1511733862000"/>
+    <file name="cv-ana-rangel..pdf" crc="4008735347" seo="true" mt="1511734741000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="museutils.js" crc="163421577" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="museconfig.js" crc="36584860" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:ana-rangel-sobre-mi:ana-rangel-quienes-confiaron"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="webpro.js" crc="3848665353" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="require.js" crc="244322403" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+  </folder>
+  <folder name="images">
+    <file name="ana-rangel-diseñador-gráfico-favicon.ico" crc="84617082" ref="index"/>
+    <file name="dodo.svg" crc="4000099434" ref="index"/>
+    <file name="dodo_poster_u24897.png" crc="150126348" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:ana-rangel-sobre-mi:ana-rangel-servicios:ana-rangel-portafolio:ana-rangel-quienes-confiaron"/>
+    <file name="dodoraphi.svg" crc="4050094289" seo="true" ref="index"/>
+    <file name="dodoraphi_poster_.png" crc="4073230399" ref="index"/>
+    <file name="dodoblanco.svg" crc="441964716" ref="index"/>
+    <file name="dodoblanco_poster_u28431.png" crc="195172066" ref="index"/>
+    <file name="llamada.png" crc="4196558293" ref="index"/>
+    <file name="mail.png" crc="4168729136" ref="index"/>
+    <file name="capa 2.png" crc="306962814" ref="index"/>
+    <file name="menu-button.svg" crc="25621918" ref="index"/>
+    <file name="menu-button_poster_u32002.png" crc="4291510165" ref="index"/>
+    <file name="cancel.svg" crc="3773795370" ref="index"/>
+    <file name="cancel_poster_u32010.png" crc="3863666051" ref="index"/>
+    <file name="ana-rangel-sobre-mi-favicon.ico" crc="84617082" ref="ana-rangel-sobre-mi"/>
+    <file name="ps.jpg" crc="4076873073" ref="ana-rangel-sobre-mi"/>
+    <file name="ai.jpg" crc="4060883433" ref="ana-rangel-sobre-mi"/>
+    <file name="mu.jpg" crc="210961978" ref="ana-rangel-sobre-mi"/>
+    <file name="ae.jpg" crc="299069528" ref="ana-rangel-sobre-mi"/>
+    <file name="pr.jpg" crc="4156877820" ref="ana-rangel-sobre-mi"/>
+    <file name="ps-u26812-fr.jpg" crc="3951160910" ref="ana-rangel-sobre-mi"/>
+    <file name="ai-u27543-fr.jpg" crc="430099168" ref="ana-rangel-sobre-mi"/>
+    <file name="mu-u27580-fr.jpg" crc="4235437453" ref="ana-rangel-sobre-mi"/>
+    <file name="ae-u27583-fr.jpg" crc="4073374740" ref="ana-rangel-sobre-mi"/>
+    <file name="pr-u27652-fr.jpg" crc="342839250" ref="ana-rangel-sobre-mi"/>
+    <file name="ps-u26812-fr2.jpg" crc="3906692226" ref="ana-rangel-sobre-mi"/>
+    <file name="ai-u27543-fr2.jpg" crc="323159035" ref="ana-rangel-sobre-mi"/>
+    <file name="mu-u27580-fr2.jpg" crc="4276229751" ref="ana-rangel-sobre-mi"/>
+    <file name="ae-u27583-fr2.jpg" crc="4203618178" ref="ana-rangel-sobre-mi"/>
+    <file name="pr-u27652-fr2.jpg" crc="428737943" ref="ana-rangel-sobre-mi"/>
+    <file name="ps-u26812-fr3.jpg" crc="525874953" ref="ana-rangel-sobre-mi"/>
+    <file name="ai-u27543-fr3.jpg" crc="163273354" ref="ana-rangel-sobre-mi"/>
+    <file name="mu-u27580-fr3.jpg" crc="487802751" ref="ana-rangel-sobre-mi"/>
+    <file name="ae-u27583-fr3.jpg" crc="4111030036" ref="ana-rangel-sobre-mi"/>
+    <file name="pr-u27652-fr3.jpg" crc="35646708" ref="ana-rangel-sobre-mi"/>
+    <file name="ps-u26812-fr4.jpg" crc="4211892582" ref="ana-rangel-sobre-mi"/>
+    <file name="ai-u27543-fr4.jpg" crc="4183073709" ref="ana-rangel-sobre-mi"/>
+    <file name="ana-rangel-servicios-favicon.ico" crc="84617082" ref="ana-rangel-servicios"/>
+    <file name="1.png" crc="4070190952" ref="ana-rangel-servicios:ana-rangel-quienes-confiaron"/>
+    <file name="2.png" crc="3758732147" ref="ana-rangel-servicios"/>
+    <file name="3.png" crc="4075842768" ref="ana-rangel-servicios"/>
+    <file name="4.png" crc="3920497162" ref="ana-rangel-servicios"/>
+    <file name="5.png" crc="4110799539" ref="ana-rangel-servicios"/>
+    <file name="6.png" crc="503800295" ref="ana-rangel-servicios"/>
+    <file name="ana-rangel-portafolio-favicon.ico" crc="84617082" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x154.jpg" crc="3900931860" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 308x276.jpg" crc="3948755025" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x446.jpg" crc="321643758" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x275.jpg" crc="380551152" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x224.jpg" crc="4062958786" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x276.jpg" crc="3898426382" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x2242.jpg" crc="229374011" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 307x305.jpg" crc="4001222434" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 303x276.jpg" crc="4254716412" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x358.jpg" crc="532458606" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x306.jpg" crc="310346763" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x152.jpg" crc="30094072" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x456.jpg" crc="4182730759" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 633x163.jpg" crc="4097598484" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x298.jpg" crc="107672570" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 303x299.jpg" crc="3106263" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 634x299.jpg" crc="462597354" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x2982.jpg" crc="492265223" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x450.jpg" crc="355747590" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 303x593.jpg" crc="304279445" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x278.jpg" crc="3994974146" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x299.jpg" crc="4127054811" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 303x300.jpg" crc="4178742677" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x447.jpg" crc="4112815940" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x300.jpg" crc="155959955" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x385.jpg" crc="4069376565" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x299.jpg" crc="4245345827" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x197.jpg" crc="50600650" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 308x468.jpg" crc="489968824" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x2983.jpg" crc="185457835" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 303x171.jpg" crc="4247237676" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x322229x241.jpg" crc="3801827272" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x641230x481.jpg" crc="4262333975" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 636x241.jpg" crc="513853933" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 305x2992.jpg" crc="4043581927" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 307x298.jpg" crc="3876071809" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 304x297.jpg" crc="275962312" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x322.jpg" crc="4209881573" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 306x641.jpg" crc="116166426" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x275353x154.jpg" crc="18818194" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 634x299400x186.jpg" crc="94558959" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x447378x279.jpg" crc="200276033" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x278392x173.jpg" crc="3924698290" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x275245x107.jpg" crc="3818775358" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 634x299245x114.jpg" crc="354860186" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x447247x183.jpg" crc="77953817" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="imagen pegada 632x278245x108.jpg" crc="107427362" seo="true" ref="ana-rangel-portafolio"/>
+    <file name="ana-rangel-quienes-confiaron-favicon.ico" crc="84617082" ref="ana-rangel-quienes-confiaron"/>
+    <file name="piramide.png" crc="3896461099" ref="ana-rangel-quienes-confiaron"/>
+    <file name="oceanica.png" crc="310749805" ref="ana-rangel-quienes-confiaron"/>
+    <file name="cleteci.png" crc="3776359874" ref="ana-rangel-quienes-confiaron"/>
+    <file name="cerebro.png" crc="72664835" ref="ana-rangel-quienes-confiaron"/>
+    <file name="tc.png" crc="70162420" ref="ana-rangel-quienes-confiaron"/>
+    <file name="7a.png" crc="328526457" ref="ana-rangel-quienes-confiaron"/>
+    <file name="fiabci.png" crc="4253071450" ref="ana-rangel-quienes-confiaron"/>
+    <file name="ks.png" crc="426610435" ref="ana-rangel-quienes-confiaron"/>
+    <file name="in.png" crc="345584102" ref="ana-rangel-quienes-confiaron"/>
+    <file name="fleischman.png" crc="4149120504" ref="ana-rangel-quienes-confiaron"/>
+    <file name="jcs.png" crc="4034410246" ref="ana-rangel-quienes-confiaron"/>
+    <file name="aion.png" crc="3936320285" ref="ana-rangel-quienes-confiaron"/>
+  </folder>
+  <file name="index.html" crc="4144298047" seo="true" mt="1511766660602" redirect="true"/>
+  <file name="ana-rangel-sobre-mi.html" crc="3818629424" seo="true" mt="1511767132398" redirect="true"/>
+  <file name="ana-rangel-servicios.html" crc="3766836849" seo="true" mt="1511766660602" redirect="true"/>
+  <file name="ana-rangel-portafolio.html" crc="4017201608" seo="true" mt="1511766660602" redirect="true"/>
+  <file name="ana-rangel-quienes-confiaron.html" crc="4106557861" seo="true" mt="1511766660602" redirect="true"/>
+</manifest>
